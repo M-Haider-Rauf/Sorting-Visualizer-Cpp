@@ -17,6 +17,9 @@ Insertion Sort
 Merge Sort
 The yello bars are left and right indexes, the blue bar is the middle.
 
+# To Run
+If you're on Windows, download the Release folder and run the exe. For
+other platforms, you have to compile yourself.
 
 # Controls
 * **Up/Down** to change array size

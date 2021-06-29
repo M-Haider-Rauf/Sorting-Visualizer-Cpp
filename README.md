@@ -9,6 +9,15 @@ implemented like this (mainly recursive ones). The code was also really ugly. Bu
 each array state separately. Since the array isn't that big (<= 400 elements), it works quickly. And one advantage is you can go back in history for each
 step! (This isn't implemented yet, but should be easy enough.)
 
+# Demo
+![Insertion Sort](https://i.ibb.co/2vD8Zkf/ezgif-com-gif-maker-1.gif)
+Insertion Sort
+
+![Merge Sort](https://i.ibb.co/Z6Pktg4/ezgif-com-gif-maker.gif)
+Merge Sort
+The yello bars are left and right indexes, the blue bar is the middle.
+
+
 # Controls
 * **Up/Down** to change array size
 * **Left/Right** to change algorithm
